@@ -1,2 +1,2 @@
 #!bin/bash
-echo "Hello Jenkin"
+echo "Hello Jenkia"
